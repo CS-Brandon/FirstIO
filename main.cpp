@@ -4,7 +4,7 @@ using namespace std;
 int main(){
   string input = ""
   int num1 = 0;
-  int num2 = 0;
+  int num2 = 0 //added error here
 
   cout << "? ";
   cin >> input;
